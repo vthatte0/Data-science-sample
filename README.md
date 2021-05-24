@@ -11,8 +11,4 @@ In some cases, multiple approaches to questions will be shown.
 
 The following python libraries will need to be installed in order to run the notebook:
 
-pandas
-numpy
-scipy
-matplotlib
-datetime
+pandas, numpy, scipy, matplotlib, datetime
